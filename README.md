@@ -1,4 +1,11 @@
 # Online_Payment_Fraud_Detection_with_Logistic_Regression_Model_ML_Project
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-success?style=for-the-badge">
+</p>
+
 
 ![](https://us.123rf.com/450wm/pavelvinnik/pavelvinnik2004/pavelvinnik200400067/144781567-cyber-attack-crime-cryptocurrency-stealing-riskiness-mining-virus-hacker-burglar-avatar-on-computer.jpg?ver=6) 
 ![](https://chargebacks911.com/wp-content/uploads/2023/02/Fraud-Detection-blog.jpg)
